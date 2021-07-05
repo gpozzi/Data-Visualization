@@ -1,6 +1,6 @@
 # Data-Visualization
 
-In this repository, I'll be posting my best DataViz projects, mostly on Maven Analytics Data Challenges, which are monthly challenges where participants analyze data for meaningful insights regarding the topic chosen. I participated in them to better understand how to communicate data to others.
+In this repository, I'll be posting my best DataViz projects, mostly on Maven Analytics Data Challenges, which are monthly challenges where participants analyze data for meaningful insights regarding the topic chosen. I participated in them to practice how to communicate data to others.
 
 ## 1 - Maven Analytics challenge: #mavencrowdfundingchallenge
 
