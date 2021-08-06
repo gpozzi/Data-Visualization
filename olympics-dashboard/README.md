@@ -4,7 +4,7 @@ Given a dataset with **271.116** athletes that participated into different Olymp
 
 <div class="img-left"><img src="https://i.imgur.com/Vh35oZB.jpg" width="400"></div>
 
-<img src="https://i.imgur.com/RfI1rhM.png" width=600>
+<img src="https://i.imgur.com/RfI1rhM.png" width=1000>
 
 [Link to Tableau viz](https://public.tableau.com/app/profile/gonzalo3304/viz/Olympics_16264021893190/Dashboard_final)
 
