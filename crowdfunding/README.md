@@ -2,11 +2,7 @@
 
 Given a dataset with over 375.000 projects uploaded to Kickstarter, had to analyze which factors may predict projects success. [full details of the challenge](https://www.mavenanalytics.io/blog/maven-crowdfunding-challenge?utm_source=linkedin&utm_campaign=mavencrowdfundingchallenge_li_maven)
 
-<div class="img-left"><img src="https://i.imgur.com/S3UuZWK.png" width="400"></div>
-
-[Link to Tableau viz](https://public.tableau.com/app/profile/gonzalo3304/viz/Kickstarter_16228395867440/Dashboard1)
-
-[Link to PDF](https://drive.google.com/file/d/1day1huyMf7Z8D3zEOljj7dLH_E4g78Uk/view?usp=sharing)
+<div class="img-left"><img src="https://user-images.githubusercontent.com/52865532/129091636-c7faaeba-9112-43c3-8381-8fdce79c5659.jpg" width="400"></div>
 
 # Data description
 
@@ -26,6 +22,13 @@ Dataset has been provided by [Maven Analytics](https://www.mavenanalytics.io/dat
 > - **`State`**: Current condition the project is in (as of 2018-01-02). (numerical)
 
 ## Results
+
+<div class="img-left"><img src="https://i.imgur.com/S3UuZWK.png" width="400"></div>
+
+[Link to Tableau viz](https://public.tableau.com/app/profile/gonzalo3304/viz/Kickstarter_16228395867440/Dashboard1)
+
+[Link to PDF](https://drive.google.com/file/d/1day1huyMf7Z8D3zEOljj7dLH_E4g78Uk/view?usp=sharing)
+
 ### Success factors
 
 Three main success factors have been identified in this analysis.
