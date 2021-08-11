@@ -1,8 +1,4 @@
-# Data-Visualization
-
-In this repository, I'll be posting my best DataViz projects, mostly on Maven Analytics Data Challenges, which are monthly challenges where participants analyze data for meaningful insights regarding the topic chosen. I participated in them to practice how to communicate data to others.
-
-## 1 - Maven Analytics challenge: #mavencrowdfundingchallenge
+# Maven Analytics challenge: #mavencrowdfundingchallenge
 
 Given a dataset with over 375.000 projects uploaded to Kickstarter, had to analyze which factors may predict projects success. [full details of the challenge](https://www.mavenanalytics.io/blog/maven-crowdfunding-challenge?utm_source=linkedin&utm_campaign=mavencrowdfundingchallenge_li_maven)
 
@@ -12,7 +8,22 @@ Given a dataset with over 375.000 projects uploaded to Kickstarter, had to analy
 
 [Link to PDF](https://drive.google.com/file/d/1day1huyMf7Z8D3zEOljj7dLH_E4g78Uk/view?usp=sharing)
 
----
+# Data description
+
+Dataset has been provided by [Maven Analytics](https://www.mavenanalytics.io/data-playground). It contains 1 file: `kickstarter_projects.csv`. The parameters included are:
+
+### kickstarter_projects.csv
+> - **`ID`**: Internal kickstarter ID. (categorical)
+> - **`Name`**: Name of the project. (categorical)
+> - **`Category`**: Project category. (categorical)
+> - **`Subcategory`**: Project subcategory. (categorical)
+> - **`Country`**: Country the project is from. (categorical)
+> - **`Launched`**: Date the project was launched. (numerical)
+> - **`Deadline`**: Deadline date for crowdfunding. (numerical)
+> - **`Goal`**: Amount of money the creator needs to complete the project (USD). (numerical)
+> - **`Pledged`**: Amount of money pledged by the crowd (USD). (numerical)
+> - **`Backers`**: Number of backers. (numerical)
+> - **`State`**: Current condition the project is in (as of 2018-01-02). (numerical)
 
 ## Results
 ### Success factors
