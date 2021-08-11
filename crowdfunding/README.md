@@ -23,7 +23,7 @@ Dataset has been provided by [Maven Analytics](https://www.mavenanalytics.io/dat
 
 ## Results
 
-<div class="img-left"><img src="https://i.imgur.com/S3UuZWK.png" width="400"></div>
+<div class="img-left"><img src="https://i.imgur.com/S3UuZWK.png" width="1000"></div>
 
 [Link to Tableau viz](https://public.tableau.com/app/profile/gonzalo3304/viz/Kickstarter_16228395867440/Dashboard1)
 
