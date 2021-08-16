@@ -10,9 +10,9 @@ Given a dataset with over 375.000 projects uploaded to Kickstarter, had to analy
 #### Success factors
 
 Three main success factors have been identified in this analysis.
-- **Category** explains most of the success probability, with only three of them having more than half of all projects accomplishing the goal.
-- **Project goal** is the second best predictor of the odds of raising enough money. Unsurprisingly, the less ambitious projects are, the most likely they are to being fully funded.
-- **Launch quarter** is the weakest projects success predictor of all, being the second and third quarters slightly (up to 8%) better for fundraising.
+- **`Category`** explains most of the success probability, with only three of them having more than half of all projects accomplishing the goal.
+- **`Project goal`** is the second best predictor of the odds of raising enough money. Unsurprisingly, the less ambitious projects are, the most likely they are to being fully funded.
+- **`Launch quarter`** is the weakest projects success predictor of all, being the second and third quarters slightly (up to 8%) better for fundraising.
 
 #### Other conclusions
 The 10 most backed (by % pledged) projects come exclusively from the categories **GAMES** and **DESIGN**, so, these two may be good to look for outstanding startups.
