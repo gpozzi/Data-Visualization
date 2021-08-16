@@ -1,12 +1,13 @@
 ## Maven Analytics challenge: #mavenolympicschallenge
 
+### Summary
 Given a dataset with **271.116** athletes that participated into different Olympics editions **from Athens 1896 to Rio 2016**, I had to create a dashboard to capture the history of the Olympic Games. [full details of the challenge](https://www.mavenanalytics.io/blog/maven-olympics-challenge)
 
 <div class="img-left"><img src="https://i.imgur.com/Vh35oZB.jpg" width="400"></div>
 
-# Techniques applied
+### Techniques applied
 
-## Data Visualization
+#### Data Visualization
 - `KPI formatting`
 - `Treemap`
 - `Donut chart`
@@ -18,13 +19,13 @@ Given a dataset with **271.116** athletes that participated into different Olymp
 - `Slider, radio button and dropdown filtering`
 - `Background design editing` (with Figma)
 
-## Other
+#### Other
 - `LOD calculations`
 - `Data cleaning`
 - `Data grouping`
 - `Context filtering`
 
-# Results
+## Results
 
 <img src="https://i.imgur.com/RfI1rhM.png" width=1000>
 
@@ -34,7 +35,7 @@ Given a dataset with **271.116** athletes that participated into different Olymp
 
 ---
 
-# Data description
+## Data description
 
 Dataset has been provided by [Maven Analytics](https://www.mavenanalytics.io/data-playground), it contains 2 files: `athlete_events.csv` and `country_definitions.csv`. The parameters included are:
 
