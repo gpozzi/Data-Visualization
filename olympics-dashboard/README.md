@@ -4,8 +4,9 @@ Given a dataset with **271.116** athletes that participated into different Olymp
 
 <div class="img-left"><img src="https://i.imgur.com/Vh35oZB.jpg" width="400"></div>
 
-# Data visualization techniques applied
+# Techniques applied
 
+## Data Visualization
 - `KPI formatting`
 - `Treemap`
 - `Donut chart`
@@ -17,7 +18,7 @@ Given a dataset with **271.116** athletes that participated into different Olymp
 - `Slider, radio button and dropdown filtering`
 - `Background design editing` (with Figma)
 
-# Other techniques applied
+## Other
 - `LOD calculations`
 - `Data cleaning`
 - `Data grouping`
