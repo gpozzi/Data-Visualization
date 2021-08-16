@@ -10,16 +10,16 @@ Given a dataset with over 375.000 projects uploaded to Kickstarter, had to analy
 
 #### Visualization
 
-- Scatter plot
-- 100% stacked bar chart
-- 100% stacked area chart
-- Pie chart
-- Bar chart
-- Boxplot
+- `Scatter plot`
+- `100% stacked bar chart`
+- `100% stacked area chart`
+- `Pie chart`
+- `Bar chart`
+- `Boxplot`
 
 #### Other
-- LOD calculations
-- Outlier removal
+- `LOD calculations`
+- `Outliers removal`
 
 ### Results
 
