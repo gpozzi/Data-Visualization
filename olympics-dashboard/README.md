@@ -4,6 +4,20 @@ Given a dataset with **271.116** athletes that participated into different Olymp
 
 <div class="img-left"><img src="https://i.imgur.com/Vh35oZB.jpg" width="400"></div>
 
+# Data visualization techniques applied
+
+- `KPI formatting`
+- `Treemap`
+- `Donut chart`
+- `Line chart`
+- `Stacked bar chart`
+- `Lollipop chart`
+- `Histogram`
+- `Map`
+- `Slider, radio button and dropdown filtering`
+- `Context filtering`
+- `Background design editing` (with Figma)
+
 # Results
 
 <img src="https://i.imgur.com/RfI1rhM.png" width=1000>
