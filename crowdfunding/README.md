@@ -8,7 +8,7 @@ Given a dataset with over 375.000 projects uploaded to Kickstarter, had to analy
 
 ### Techniques applied
 
-# Visualization
+#### Visualization
 
 - Scatter plot
 - 100% stacked bar chart
@@ -17,7 +17,7 @@ Given a dataset with over 375.000 projects uploaded to Kickstarter, had to analy
 - Bar chart
 - Boxplot
 
-# Other
+#### Other
 - LOD calculations
 - Outlier removal
 
