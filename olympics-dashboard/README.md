@@ -15,8 +15,13 @@ Given a dataset with **271.116** athletes that participated into different Olymp
 - `Histogram`
 - `Map`
 - `Slider, radio button and dropdown filtering`
-- `Context filtering`
 - `Background design editing` (with Figma)
+
+# Other techniques applied
+- `LOD calculations`
+- `Data cleaning`
+- `Data grouping`
+- `Context filtering`
 
 # Results
 
