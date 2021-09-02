@@ -1,4 +1,4 @@
-## Maven Analytics challenge: #mavenolympicschallenge
+## Maven Analytics challenge: #mavenolympicschallenge 🏅
 
 ### Summary
 Given a dataset with **271.116** athletes that participated into different Olympics editions **from Athens 1896 to Rio 2016**, I had to create a dashboard to capture the history of the Olympic Games. [full details of the challenge](https://www.mavenanalytics.io/blog/maven-olympics-challenge)
