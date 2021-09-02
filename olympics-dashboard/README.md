@@ -6,6 +6,9 @@ Given a dataset with **271.116** athletes that participated into different Olymp
 
 <div class="img-left"><img src="https://i.imgur.com/Vh35oZB.jpg" width="400"></div>
 
+### Questions to ask
+I've decided this dataviz project should be a dashboard, so the main goal to this visualization is not to ask and answer questions but to lay the ground for the user to segment and play with the data displayed and describe for itself the history of the Olympics. I've selected `medal`, `year`, `country`, `age`, `sex` and `region` as filter variables.
+
 ### Techniques applied
 
 #### Data Visualization
