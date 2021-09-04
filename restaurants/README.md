@@ -15,8 +15,12 @@ This is a work in progress. Do not consider this project done yet
 ### Questions to answer
 
 - What type of demographics should we target?
-- What service variables do customer value the most?
-- Food type:  
+- What service variables correlate best with a high service rating?
+- What food type do low, medium and high budget customers that are generally satisfied with the food prefer?
+- Does smoking allowance correlate with a low service rating?
+- Are there low budget consumers that prefer a high budget restaurant?
+- Is food percieved best if a restaurant is not a franchise?
+- Do drinkers and smokers feel most at ease with drink and smoking allowance?
 
 ### Data nuances
 Even though a thorough analysis will be conducted and conclusions will be made for the sake of practice, this dataset has a small sample size and does not ensure data is not biased. For that reason, no investment strategies should be suggested by this data alone and additional information should be collected to ensure solid data driven investment decisions.
