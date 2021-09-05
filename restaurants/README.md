@@ -23,7 +23,7 @@ This is a work in progress. Do not consider this project done yet
 - Do drinkers and smokers feel most at ease with drink and smoking allowance?
 
 ### Data nuances
-Even though a thorough analysis will be conducted and conclusions will be made for the sake of practice, this dataset has a small sample size and does not ensure data is not biased. For that reason, no investment strategies should be suggested by this data alone and additional information should be collected to ensure solid data driven investment decisions.
+Even though a thorough analysis will be conducted and conclusions will be made for the sake of practice, this dataset has a non representative sample size and does not ensure data is not biased since collection methods are not specified. For that reason, no investment strategies should be suggested by this data alone and additional information should be collected in order to ensure solid data driven investment decisions.
 
 ### Techniques applied
 
