@@ -21,7 +21,7 @@ I've decided this dataviz project should be a dashboard, so the main goal to thi
 - `Histogram`
 - `Map`
 - `Slider, radio button and dropdown filtering`
-- `Background design editing` (with Figma)
+- `Dashboard design` (with Figma)
 
 #### Other
 - `LOD calculations`
